@@ -13,6 +13,10 @@ a:hover {
   text-decoration: none;
 }
 
+.table-yeet {
+  overflow: scroll;
+}
+
 h1,
 h2,
 h3,
